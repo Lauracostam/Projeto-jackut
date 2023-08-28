@@ -29,4 +29,7 @@ Projeto de uma rede de relacionamentos chamada Jackut para a disciplina de POO(P
 </table>
 
 ## :dart: Status do projeto
-* <b>Pronto!</b>
+* <b>Pronto.</b>
+
+## 📑 Documentação
+* <b> [https://github.com/Lauracostam/Projeto-jackut/tree/main/jackut/doc/br/ufal/ic/p2/jackut] </b>
